@@ -1,0 +1,44 @@
+.content{
+background-color: #f1e1f7;
+margin: 100px;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #532f73;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #532f73;
+    margin-left: 55px;
+}
+
+.cardLayout {
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .cards{
+    width: 50px;
+    height: 80px;
+    background-color: #532f73;
+    color: #c9b03e;
+    display: none;
+  }
+  .margins{
+    width: 50px;
+    height: 80px;
+    margin: 5px;
+  }
+  #startButton{
+    margin: 75px;
+    background-color: #c9b03e;
+    color:#532f73
+    
+  }
+  .flip{
+    width:10px;
+    background-color: #c9b03e;
+  }
